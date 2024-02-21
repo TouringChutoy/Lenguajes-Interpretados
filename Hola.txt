@@ -1,0 +1,6 @@
+Hola Mundo
+Hey muy buenas a todos
+
+if (edad >= 18){
+  print("Mayor de edad);
+}
