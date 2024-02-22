@@ -5,4 +5,3 @@ Este es el repositorio de los contenidos de la materia "_**Programación en leng
 Diego Adrián Ramírez Montaño
 
   -[Practica 1](/Practica-1/Practica1.md)
-  
