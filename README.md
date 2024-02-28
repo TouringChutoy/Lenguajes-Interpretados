@@ -5,3 +5,5 @@ Este es el repositorio de los contenidos de la materia "_**Programación en leng
 Diego Adrián Ramírez Montaño
 
   -[Practica 1](/Practica-1/Practica1.md)
+  
+  -[Practica 3](https://github.com/TouringChutoy/LenguajesPractica3.git)
