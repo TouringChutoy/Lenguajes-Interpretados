@@ -11,3 +11,5 @@ Diego Adrián Ramírez Montaño
   -[Practica 5](/Practica-5/Practica-5.md)
 
   -[Practica 6](https://github.com/TouringChutoy/LenguajesPractica6.git)
+
+  -[Practica 8](/Practica-8/practica-8.md)
